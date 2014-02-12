@@ -1,0 +1,35 @@
+/* Common Part
+ *******************************************/
+
+/* header
+ *******************************************/
+ .main-header{
+ 	margin:10px 0;
+ }
+
+/* Content
+ *******************************************/
+.modal-login{
+	margin-left: -160px;
+	width: 320px;
+}
+
+.modal-login .modal-header{
+	background: url('../img/logo.png') no-repeat;
+	background-position: 90% 30%;
+	background-size: 30%;
+}
+
+.pagination{
+	text-align: center;
+}
+
+.content-edit .span3{
+	text-align: right;
+}
+
+/* Footer
+ *******************************************/
+ footer{
+	text-align: center;
+ }
