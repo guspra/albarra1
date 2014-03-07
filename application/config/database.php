@@ -48,10 +48,10 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'root';
-$db['default']['password'] = '';
-$db['default']['database'] = 'albarra';
+$db['default']['hostname'] = 'ap-cdbr-azure-east-b.cloudapp.net';
+$db['default']['username'] = 'b8ce03b224191a';
+$db['default']['password'] = 'd7196c8f';
+$db['default']['database'] = 'cdb_2d64410bfd';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;

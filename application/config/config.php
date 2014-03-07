@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://localhost/albarra';
+$config['base_url']	= 'http://http://www.tokofurnituremurahalbarra.com/';
 
 /*
 |--------------------------------------------------------------------------
